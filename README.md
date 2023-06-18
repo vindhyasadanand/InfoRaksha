@@ -13,5 +13,4 @@ Visit [decodstegano.herokuapp.com](https://decodstegano.herokuapp.com) for demo.
 
 ## Contributors
 
-- Fahmi Al - Developer
-- [Muhammad Ghozi](https://github.com/Ghozi47) - Designer
+-Vindhya Hegde
