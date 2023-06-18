@@ -2,7 +2,7 @@
 
 Hide secret message within an image with Steganography using [Stanford Javascript Crypto Library](https://crypto.stanford.edu/sjcl).
 
-Visit [decodstegano.herokuapp.com](https://decodstegano.herokuapp.com) for demo.
+
 
 ### Build with
 
