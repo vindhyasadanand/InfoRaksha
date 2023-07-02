@@ -1,5 +1,4 @@
-# Decod
-
+# Information Security Using Cryptography and Steganography
 Hide secret message within an image with Steganography using [Stanford Javascript Crypto Library](https://crypto.stanford.edu/sjcl).
 
 
